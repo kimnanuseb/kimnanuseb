@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 Web Developer | Passionate about building responsive, user-friendly websites.  
+🌐 Web & Software Developer | Passionate about building responsive, user-friendly websites.  
 💻 Skills: HTML, CSS, JavaScript, and modern web technologies.  
 🎯 Focus: Crafting functional and visually appealing websites.  
 🚀 Goal: Provide seamless digital experiences while continually expanding my skills.  
