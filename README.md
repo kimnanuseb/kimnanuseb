@@ -23,6 +23,10 @@ I bridge the gap between complex code and high-end design. With over 6 years of 
 
 ## 📂 Featured Projects
 
+### [KimiBank](https://kimibank.pages.dev/)
+*JavaScript (ES6+) | CSS Glassmorphism | Financial Logic*
+A sophisticated banking dashboard for Personal budget Tracking and daily Spending. Includes features for transaction history, dynamic balance updates, and a high-end FinTech UI focused on user trust and accessibility.
+
 ### [Weather Assistant](https://weather-assistant.pages.dev/)
 *React | TypeScript | OpenWeather API*
 A real-time weather dashboard featuring dynamic data fetching and hyper-local climate insights.
