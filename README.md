@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Giovanni Nanuseb
+# 👋 Hello, I'm Dr Kim Giovanni Nanuseb
 
-### 🚀 Full-Stack Developer | Graphic Designer | UI/UX Enthusiast
+### 🚀 Software & Web Developer | Graphic Designer | UI/UX Enthusiast
 
 I bridge the gap between complex code and high-end design. With over 6 years of experience in the digital space, I specialize in building fast, accessible, and visually stunning web applications.
 
@@ -9,7 +9,7 @@ I bridge the gap between complex code and high-end design. With over 6 years of 
 ## 🛠️ Tech Stack & Tools
 
 ### 🌐 Development
-- **Languages:** Type Script, Python JavaScript (ES6+), Python, PHP, Java, SQL
+- **Languages:** Type Script, JavaScript (ES6+), Python, PHP, Java, SQL
 - **Frontend:** React, Next.js 14, Tailwind CSS, Angular, HTML5, CSS3
 - **Backend:** Node.js, RESTful APIs, Firebase, PostgreSQL
 - **Platforms:** Cloudflare Pages, Vercel, WordPress, Wix
@@ -24,19 +24,12 @@ I bridge the gap between complex code and high-end design. With over 6 years of 
 ## 📂 Featured Projects
 
 ### [Personal Portfolio](https://giovanni-portfolio.pages.dev/)
-*Next.js 14 | TypeScript | Tailwind CSS | React | Angular*
+*Next.js 14 | TypeScript | Tailwind CSS | React*
 A high-performance multilingual portfolio showcasing interactive UI components and optimized asset delivery.
 
 ### [Weather Assistant](https://weather-assistant.pages.dev/)
 *React | TypeScript | OpenWeather API*
 A real-time weather dashboard featuring dynamic data fetching and hyper-local climate insights.
-
----
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=radical)
 
 ---
 
