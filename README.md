@@ -23,10 +23,6 @@ I bridge the gap between complex code and high-end design. With over 6 years of 
 
 ## 📂 Featured Projects
 
-### [Personal Portfolio](https://giovanni-portfolio.pages.dev/)
-*Next.js 14 | TypeScript | Tailwind CSS | React*
-A high-performance multilingual portfolio showcasing interactive UI components and optimized asset delivery.
-
 ### [Weather Assistant](https://weather-assistant.pages.dev/)
 *React | TypeScript | OpenWeather API*
 A real-time weather dashboard featuring dynamic data fetching and hyper-local climate insights.
@@ -37,7 +33,6 @@ A real-time weather dashboard featuring dynamic data fetching and hyper-local cl
 
 - **Portfolio:** [giovanni-portfolio.pages.dev](https://giovanni-portfolio.pages.dev/)
 - **LinkedIn:** [/in/your-profile](https://linkedin.com/in/drkim-nanuseb)
-- **Behance:** [behance.net/giovanninanuseb](https://www.behance.net/giovanninanuseb)
 
 ---
 
