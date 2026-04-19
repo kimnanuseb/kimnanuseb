@@ -11,13 +11,13 @@ I bridge the gap between complex code and high-end design. With over 6 years of 
 ### 🌐 Development
 - **Languages:** Type Script, JavaScript (ES6+), Python, PHP, Java, SQL
 - **Frontend:** React, Next.js 14, Tailwind CSS, Angular, HTML5, CSS3
-- **Backend:** Node.js, RESTful APIs, Firebase, PostgreSQL
-- **Platforms:** Cloudflare Pages, Vercel, WordPress, Wix
+- **Backend:** Node.js, RESTful APIs, Firebase, PostgreSQL,Superbase,Render,Docker
+- **Platforms:** Cloudflare Pages, Vercel, WordPress, Wix,SquareSpace,Wordpress,Ai Engineering
 
 ### 🎨 Design & Creative
 - **UI/UX:** Figma, Adobe XD
 - **Visuals:** Adobe Photoshop, Illustrator, Premiere Pro
-- **Specialties:** Branding, Logo Design, Digital Campaigns, Professional Photography
+- **Specialties:** Software & Web Development,UI Design
 
 ---
 
