@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Dr Kim Giovanni Nanuseb
 
-### 🚀 Software & Web Developer | Graphic Designer | UI/UX Enthusiast
+### 🚀 "Lead Product Engineer | Full Stack Developer"
 
 I bridge the gap between complex code and high-end design. With over 6 years of experience in the digital space, I specialize in building fast, accessible, and visually stunning web applications.
 
