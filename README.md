@@ -1,63 +1,74 @@
-# 👋 Hello, I'm Dr Kim Giovanni Nanuseb
-
-### 🚀 "Lead Product Engineer | Full Stack Developer"
-
-I bridge the gap between complex code and high-end design. With over 6 years of experience in the digital space, I specialize in building fast, accessible, and visually stunning web applications.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🌐 Development
-- **Languages:** Type Script, JavaScript (ES6+), Python, PHP, Java, SQL
-- **Frontend:** React, Next.js 14, Tailwind CSS, Angular, HTML5, CSS3
-- **Backend:** Node.js, RESTful APIs, Firebase, PostgreSQL,Superbase,Render,Docker
-- **Platforms:** Cloudflare Pages, Vercel, WordPress, Wix,SquareSpace,Wordpress,Ai Engineering
-
-### 🎨 Design & Creative
-- **UI/UX:** Figma, Adobe XD
-- **Visuals:** Adobe Photoshop, Illustrator, Premiere Pro
-- **Specialties:** Software & Web Development,UI Design
+<!-- HEADER BANNER -->
+<div align="center">
+  <h1>👋 Hi, I'm Dr. Kim Giovanni Nanuseb</h1>
+  <h3>Full Stack Engineer | Systems Architect | Product Designer</h3>
+  <p>Building high-performance, accessible web applications and scalable SaaS infrastructure from Namibia 🇳🇦</p>
+  
+  <p>
+    <a href="https://giovanni-portfolio.pages.dev"><img src="https://img.shields.io/badge/Portfolio-giovanni--portfolio.pages.dev-007ACC?style=flat-square&logo=cloudflare&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/drkim-nanuseb"><img src="https://img.shields.io/badge/LinkedIn-drkim--nanuseb-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:kimnanuseb@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
 ---
 
-## 📂 Featured Projects
+### 👨‍💻 About Me
 
-### [KimiBank](https://kimibank.pages.dev/)
-*JavaScript (ES6+) | CSS Glassmorphism | Financial Logic*
-A sophisticated banking dashboard for Personal budget Tracking and daily Spending. Includes features for transaction history, dynamic balance updates, and a high-end FinTech UI focused on user trust and accessibility.
+I bridge the gap between complex backend architectures and high-end modern UI design. With over 6 years of technical experience, I specialize in architecting full-stack web applications, white-label SaaS solutions, and financial software platforms.
 
-### [Weather Assistant](https://weather-assistant.pages.dev/)
-*React | TypeScript | OpenWeather API*
-A real-time weather dashboard featuring dynamic data fetching and hyper-local climate insights.
-
-### [Notes App](https://soigcreations-notes-app.pages.dev/)
-*JavaScript | HTML5 | CSS3 | LocalStorage*
-A lightweight, intuitive note-taking application designed for quick thought capture with persistent data storage and a fully responsive interface.
-
-### [PulseFit Tracker](https://pulsefit-tracker.pages.dev/)
-*JavaScript | CSS Grid | Fitness Metrics*
-A health-focused dashboard for monitoring workouts and physical progress. Built with a focus on high-end Ui Design
-
-### [Pitchside Sports](https://pitchside-sports.pages.dev/)
-*HTML5 | Responsive Design | Sports API*
-A comprehensive sports hub for Schedules and Results. Features include automatic match updates, integrated schedules, and detailed match profiles.
-
-### [DailyBread Bible](https://dailybread-bible.pages.dev/)
-*React | API Integration | Spiritual Growth*
-A modern Bible guide providing daily verses and expert reflections. Features a 4-year cycle plan and Bible reading tracking.
-
-### [Todo App](https://soigcreations-todo-app.pages.dev/)
-*TypeScript | MVC Architecture | LocalStorage*
-A structured task manager that allows users to add, update, and categorize tasks.
+* 🚀 **Current Focus:** Scaling **AgentDesk**, a white-label SaaS infrastructure platform for real estate management.
+* 🛠️ **Core Expertise:** Modern TypeScript ecosystems, serverless APIs, cloud infrastructure, and algorithmic trading scripts.
+* 🎓 **Education & Certifications:** AWS Certified DevOps Engineer, Google Cybersecurity Professional, Computer Science coursework via University of the People & STADIO Namibia.
+* 💼 **Founder:** Principal Architect at **SoiG Creations**, delivering custom software, UI/UX, and cloud engineering solutions.
 
 ---
 
-## 📫 Let's Connect!
+### 🛠️ Technical Toolchain
 
-- **Portfolio:** [giovanni-portfolio.pages.dev](https://giovanni-portfolio.pages.dev/)
-- **LinkedIn:** [/in/your-profile](https://linkedin.com/in/drkim-nanuseb)
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages & Core** | `TypeScript` • `JavaScript (ES6+)` • `Python` • `PHP` • `Java` • `MQL5` • `SQL` |
+| **Frontend Frameworks** | `React` • `Next.js 14` • `Angular` • `Tailwind CSS` • `HTML5/CSS3` • `Glassmorphism UI` |
+| **Backend & Cloud** | `Node.js` • `RESTful APIs` • `Supabase` • `PostgreSQL` • `Firebase` • `Docker` • `Render` |
+| **Infrastructure & DevOps** | `Cloudflare Pages` • `Vercel` • `AWS DevOps` • `Linux` • `CI/CD Pipelines` |
+| **Design & Media** | `Figma` • `Adobe XD` • `Photoshop` • `Illustrator` • `Premiere Pro` |
 
 ---
 
-> "Readable code, accessible experiences, and a steady grind."
+### 📂 Key Projects & Architectures
+
+#### 🏢 [AgentDesk](https://agentdeskoffice.com)
+* **Stack:** `Next.js 14` | `TypeScript` | `Supabase` | `Tailwind CSS`  
+A multi-tenant SaaS platform built for real estate agencies. Features include automated lead routing, mandate pipeline analytics, role-based access control, and dynamic query handling.
+
+#### 🤖 [SniperZero AI](https://github.com/kimnanuseb/Sniper-Zero-Ai)
+* **Stack:** `Python` | `MQL5` | `RESTful APIs`  
+An automated high-frequency trading bot designed to process tick volatility expansions and execute low-latency order flow validation.
+
+#### 🏦 [KimiBank Dashboard](https://github.com/kimnanuseb/KimiBank)
+* **Stack:** `JavaScript (ES6+)` | `CSS Glassmorphism` | `FinTech UI`  
+A financial dashboard for tracking budgets, recurring transactions, and real-time ledger accounting with an emphasis on visual accessibility.
+
+#### 🔌 [AI Coder VS Code Extension](https://github.com/kimnanuseb/ai-coder-vscode-extention-)
+* **Stack:** `JavaScript` | `VS Code API` | `LLM Integrations`  
+A developer tool enabling instant comment-to-code synthesis, automated error diagnosis, and contextual code completions directly in the IDE.
+
+#### 🌤️ [Weather Assistant](https://github.com/kimnanuseb/Weather-Assistent-App)
+* **Stack:** `React` | `TypeScript` | `OpenWeather API`  
+A responsive atmospheric weather dashboard delivering live forecasts, hyper-local metrics, and intuitive location lookups.
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimnanuseb&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimnanuseb&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" height="165" />
+</div>
+
+---
+
+<div align="center">
+  <sub>"Readable code, accessible experiences, and a steady grind."</sub>
+</div>
