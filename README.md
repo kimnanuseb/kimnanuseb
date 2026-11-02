@@ -19,7 +19,7 @@ I bridge the gap between complex backend architectures and high-end modern UI de
 
 * 🚀 **Current Focus:** Scaling **AgentDesk**, a white-label SaaS infrastructure platform for real estate management.
 * 🛠️ **Core Expertise:** Modern TypeScript ecosystems, serverless APIs, cloud infrastructure, and algorithmic trading scripts.
-* 🎓 **Education & Certifications:** AWS Certified DevOps Engineer, Google Cybersecurity Professional, Computer Science coursework via University of the People & STADIO Namibia.
+* 🎓 **Education & Certifications:** AWS Certified DevOps Engineer, Google Cybersecurity Professional, Computer Science coursework via University of the People.
 * 💼 **Founder:** Principal Architect at **SoiG Creations**, delivering custom software, UI/UX, and cloud engineering solutions.
 
 ---
@@ -57,15 +57,6 @@ A developer tool enabling instant comment-to-code synthesis, automated error dia
 #### 🌤️ [Weather Assistant](https://github.com/kimnanuseb/Weather-Assistent-App)
 * **Stack:** `React` | `TypeScript` | `OpenWeather API`  
 A responsive atmospheric weather dashboard delivering live forecasts, hyper-local metrics, and intuitive location lookups.
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimnanuseb&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimnanuseb&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Top Languages" height="165" />
-</div>
 
 ---
 
